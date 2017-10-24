@@ -1,0 +1,17 @@
+body {
+  fony-family: "Helvetica";
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+header {
+  position: fixed;
+  height: 69px;
+  display: block;
+  border-bottom: 1px solid seashell;
+}
+.img {
+  height: 50px;
+}
